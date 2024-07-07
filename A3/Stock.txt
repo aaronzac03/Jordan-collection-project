@@ -1,0 +1,6 @@
+item_identification, estimated_price, release_date, colourways, quality
+Jordan 4s, 405, 1989, 3, used
+Jordan 8s, 605, 1993, 2, new
+Jordan 3s, 305, 1988, 1, used
+Jordan 9s, 505, 1993, 4, used
+Jordan 5s, 705, 1990, 2, new
